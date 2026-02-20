@@ -1,0 +1,15 @@
+{
+  "bomFormat": "CycloneDX",
+  "specVersion": "1.4",
+  "serialNumber": "urn:uuid:ab14da252daced3dbf0f17c917f4e42c",
+  "version": 1,
+  "metadata": {
+    "timestamp": "2026-02-20T09:08:24.563187",
+    "component": {
+      "type": "application",
+      "name": "pytorch-workflow"
+    }
+  },
+  "components": [],
+  "note": "Run 'pip-audit' and 'pip-licenses' for full CVE and license data"
+}

@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: 'If you use this software, please cite it using these metadata.'
+type: software
+title: 'pytorch-workflow'
+abstract: 'Pytorch-workflow is a tool for managing and optimizing PyTorch workflows'
+authors:
+  - family-names: Developer
+    given-names: mehrshud
+repository-code: 'https://github.com/mehrshud/pytorch-workflow'
+url: 'https://omnilertlab.com'
+license: MIT
+version: 1.0.0
+date-released: '2026-02-20'
+keywords:
+  - python
+  - fastapi
+  - postgresql
+  - redis
+  - docker
